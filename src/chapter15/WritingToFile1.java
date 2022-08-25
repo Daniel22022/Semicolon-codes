@@ -2,7 +2,7 @@ package chapter15;
 
 import java.io.*;
 
-public class Example1 {
+public class WritingToFile1 {
     public static void main(String[] args) {
         InputStreamReader inputStreamReader = new InputStreamReader(System.in);
         BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
