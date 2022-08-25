@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c435b1e-506c-4825-aff1-3213ac6a383e" name="Changes" comment="" />
+    <list default="true" id="3c435b1e-506c-4825-aff1-3213ac6a383e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SemicolonClassworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/Printerr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/ValidateInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/Example1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DEH810MJKK88unm26gDqsJMogF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +44,54 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="africa.semicolon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.printer">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.Example1" />
+      <module name="SemicolonClassworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.printer" />
+      <module name="SemicolonClassworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.printer" />
+        <item itemvalue="Application.Example1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660257161637</updated>
+      <workItem from="1660257164164" duration="1028000" />
+      <workItem from="1661447757183" duration="2870000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
