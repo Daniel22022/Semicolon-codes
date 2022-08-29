@@ -9,8 +9,8 @@ public class ReadingFromFile {
             BufferedReader  bufferedReader = new BufferedReader(fileReader);
            String sentence = bufferedReader.readLine();
             System.out.println(sentence);
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (IOException e){
+            System.out.println(e.getMessage());
         }
     }
 }
