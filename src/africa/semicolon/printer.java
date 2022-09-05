@@ -25,7 +25,6 @@ public class printer {
                 DocPrintJob job = pservice.createPrintJob();
                 Doc doc = new SimpleDoc(s, flavor, null);
                 job.print(doc, null);
-
             } catch (PrintException e) {
                 e.printStackTrace();
             }
